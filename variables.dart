@@ -6,7 +6,7 @@ void main() {
   bool isStudent = true;
   List<int> numbers = [1, 2, 3, 4, 5];
 
-  // Print the variables
+// Print the variables
   print('Age: $age');
   print('Height: $height');
   print('Name: $name');

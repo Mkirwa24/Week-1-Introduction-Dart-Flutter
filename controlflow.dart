@@ -15,9 +15,9 @@ void main() {
   printDayOfWeek(10); // Invalid day
 
   // Loops
-  printNumbersFrom1To10(); // For loop to print numbers from 1 to 10
-  printNumbersFrom10To1(); // While loop to print numbers from 10 to 1
-  printNumbersUsingDoWhile(); // Do-while loop to print numbers from 1 to 5
+  printNumbersFrom1To10();  // For loop to print numbers from 1 to 10
+  printNumbersFrom10To1();    // While loop to print numbers from 10 to 1
+  printNumbersUsingDoWhile();   // Do-while loop to print numbers from 1 to 5
 }
 
 ////////////////////////
